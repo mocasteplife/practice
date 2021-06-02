@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+/*
+ * Theme Name: JIL
+ * Author: MT
+ * Description: JIL Website
+ * Version: 1.0
+ */
+
+ /* .fw-bold {
+   color: red;
+ } */
+
+a .btn .btn-primary .btn-lg .btn-send {
+  background-color: red;
+}
